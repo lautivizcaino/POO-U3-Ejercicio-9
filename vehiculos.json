@@ -1,0 +1,64 @@
+{
+    "__class__": "ListaVehiculos",
+    "vehiculos": [
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "marca": "Toyota",
+                "modelo": "Corolla",
+                "cantidadPuertas": 5,
+                "color": "Blanco",
+                "precioBase": 5500.0,
+                "version": "Base"
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "marca": "Toyota",
+                "modelo": "Hilux",
+                "cantidadPuertas": 4,
+                "color": "Gris",
+                "precioBase": 5000,
+                "version": "base"
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "marca": "Chevrolet",
+                "modelo": "Corsa",
+                "cantidadPuertas": 3,
+                "color": "Azul",
+                "precioBase": 3000,
+                "patente": "AAA300",
+                "anio": 2016,
+                "km": 13000
+            }
+        },
+        {
+            "__class__": "Nuevo",
+            "__atributos__": {
+                "marca": "Toyota",
+                "modelo": "Etios",
+                "cantidadPuertas": 5,
+                "color": "Rojo",
+                "precioBase": 6000,
+                "version": "full"
+            }
+        },
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "marca": "Renault",
+                "modelo": "Captur",
+                "cantidadPuertas": 5,
+                "color": "Blanco",
+                "precioBase": 7000,
+                "patente": "CCC123",
+                "anio": 2018,
+                "km": 2500
+            }
+        }
+    ]
+}

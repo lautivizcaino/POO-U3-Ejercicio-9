@@ -1,0 +1,9 @@
+1
+0
+1
+Toyota
+Corolla
+5
+Blanco
+5500
+Base
